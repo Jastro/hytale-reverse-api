@@ -1,0 +1,20 @@
+{
+  "id": "skywars:flying_ship_block",
+  "type": "block_entity",
+  "blockType": "Rock_Chalk_Brick",
+  "components": {
+    "hitboxCollision": "skywars:ship_collision",
+    "simplePhysics": {
+      "gravity": -9.8,
+      "bounciness": 0.0,
+      "provideCharacterCollisions": false
+    },
+    "transform": {
+      "scale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    }
+  }
+}

@@ -1,0 +1,5 @@
+{
+  "id": "skywars:ship_collision",
+  "collisionType": "Hard",
+  "softOffsetRatio": 0.0
+}

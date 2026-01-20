@@ -1,0 +1,24 @@
+{
+  "Group": "SkyExplorers",
+  "Name": "Sky Explorers",
+  "Version": "0.1.0",
+  "Description": "Build and pilot flying ships between floating islands",
+  "Authors": [
+    {
+      "Name": "Jacobo Caraballo",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Main": "com.skyexplorers.Plugin",
+  "ServerVersion": "*",
+  "Dependencies": {
+    "Hytale:EntityModule": "*",
+    "Hytale:AssetModule": "*",
+    "Hytale:InteractionModule": "*"
+  },
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": true
+}
